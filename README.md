@@ -86,7 +86,7 @@ To develop your understanding of the domain, you are advised to independently re
 
 
 ## Contact
-Created by Minakshi Garg and Anirudh Gahlot - feel free to contact me!
+Created by Minakshi Garg and Anirudh Gahlot - feel free to contact us!
 
 
 <!-- Optional -->
